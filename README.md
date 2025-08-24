@@ -127,10 +127,3 @@ Important actions in the system trigger domain events:
 * Capacity must be greater than zero
 * Cannot book more seats than available
 * Cancelled or completed events cannot be modified
-
-## Contributing
-
-This project is a showcase of clean architecture, CQRS, and modern .NET development. Contributions that improve functionality, architecture, or documentation are welcome.
-
-
-Do you want me to do that?
