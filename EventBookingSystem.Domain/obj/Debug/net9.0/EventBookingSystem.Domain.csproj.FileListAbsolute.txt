@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\bin\Debug\net9.0\EventBookingSystem.Domain.deps.json
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\bin\Debug\net9.0\EventBookingSystem.Domain.dll
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\bin\Debug\net9.0\EventBookingSystem.Domain.pdb
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\obj\Debug\net9.0\EventBookingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\obj\Debug\net9.0\EventBookingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\obj\Debug\net9.0\EventBookingSystem.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\obj\Debug\net9.0\EventBookingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\obj\Debug\net9.0\EventBookingSystem.Domain.dll
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\obj\Debug\net9.0\refint\EventBookingSystem.Domain.dll
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\obj\Debug\net9.0\EventBookingSystem.Domain.pdb
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Domain\obj\Debug\net9.0\ref\EventBookingSystem.Domain.dll

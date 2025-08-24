@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\EventBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B46A499-BE0C-4DFC-8E06-27BE59F9E700}|EventBookingSystem.API\\EventBookingSystem.API.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B46A499-BE0C-4DFC-8E06-27BE59F9E700}|EventBookingSystem.API\\EventBookingSystem.API.csproj|solutionrelative:eventbookingsystem.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B46A499-BE0C-4DFC-8E06-27BE59F9E700}|EventBookingSystem.API\\EventBookingSystem.API.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B46A499-BE0C-4DFC-8E06-27BE59F9E700}|EventBookingSystem.API\\EventBookingSystem.API.csproj|solutionrelative:eventbookingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B46A499-BE0C-4DFC-8E06-27BE59F9E700}|EventBookingSystem.API\\EventBookingSystem.API.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B46A499-BE0C-4DFC-8E06-27BE59F9E700}|EventBookingSystem.API\\EventBookingSystem.API.csproj|solutionrelative:eventbookingsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B46A499-BE0C-4DFC-8E06-27BE59F9E700}|EventBookingSystem.API\\EventBookingSystem.API.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B46A499-BE0C-4DFC-8E06-27BE59F9E700}|EventBookingSystem.API\\EventBookingSystem.API.csproj|solutionrelative:eventbookingsystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.application\\eventbookingsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|solutionrelative:eventbookingsystem.application\\eventbookingsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A28124E-AF1B-4900-AC17-97CC5623B438}|EventBookingSystem.Tests\\EventBookingSystem.Tests.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.tests\\repositories\\eventrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A28124E-AF1B-4900-AC17-97CC5623B438}|EventBookingSystem.Tests\\EventBookingSystem.Tests.csproj|solutionrelative:eventbookingsystem.tests\\repositories\\eventrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A28124E-AF1B-4900-AC17-97CC5623B438}|EventBookingSystem.Tests\\EventBookingSystem.Tests.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.tests\\handlers\\deleteeventcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A28124E-AF1B-4900-AC17-97CC5623B438}|EventBookingSystem.Tests\\EventBookingSystem.Tests.csproj|solutionrelative:eventbookingsystem.tests\\handlers\\deleteeventcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.application\\handlers\\updateeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|solutionrelative:eventbookingsystem.application\\handlers\\updateeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D7FB6F-35A0-4215-9ED9-B330EDAFB04E}|EventBookingSystem.Domain\\EventBookingSystem.Domain.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D7FB6F-35A0-4215-9ED9-B330EDAFB04E}|EventBookingSystem.Domain\\EventBookingSystem.Domain.csproj|solutionrelative:eventbookingsystem.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A28124E-AF1B-4900-AC17-97CC5623B438}|EventBookingSystem.Tests\\EventBookingSystem.Tests.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.tests\\eventbookingsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A28124E-AF1B-4900-AC17-97CC5623B438}|EventBookingSystem.Tests\\EventBookingSystem.Tests.csproj|solutionrelative:eventbookingsystem.tests\\eventbookingsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.application\\handlers\\deleteeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|solutionrelative:eventbookingsystem.application\\handlers\\deleteeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753F02AA-9C6F-4821-BDFD-D9EACD3C6229}|EventBookingSystem.Infrastructure\\EventBookingSystem.Infrastructure.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.infrastructure\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753F02AA-9C6F-4821-BDFD-D9EACD3C6229}|EventBookingSystem.Infrastructure\\EventBookingSystem.Infrastructure.csproj|solutionrelative:eventbookingsystem.infrastructure\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D7FB6F-35A0-4215-9ED9-B330EDAFB04E}|EventBookingSystem.Domain\\EventBookingSystem.Domain.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.domain\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D7FB6F-35A0-4215-9ED9-B330EDAFB04E}|EventBookingSystem.Domain\\EventBookingSystem.Domain.csproj|solutionrelative:eventbookingsystem.domain\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.application\\handlers\\eventcommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|solutionrelative:eventbookingsystem.application\\handlers\\eventcommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.application\\commands\\deleteeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|solutionrelative:eventbookingsystem.application\\commands\\deleteeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|c:\\users\\user\\desktop\\eventbookingsystem\\eventbookingsystem.application\\commands\\updateeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1D3EF5-2667-4325-A671-E995880AEA5E}|EventBookingSystem.Application\\EventBookingSystem.Application.csproj|solutionrelative:eventbookingsystem.application\\commands\\updateeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1027,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EventBookingSystem.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.API\\appsettings.json",
+              "RelativeToolTip": "EventBookingSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T14:27:40.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.API\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.API\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.API\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventBookingSystem.API\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:46:18.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventBookingSystem.Application",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\EventBookingSystem.Application.csproj",
+              "RelativeDocumentMoniker": "EventBookingSystem.Application\\EventBookingSystem.Application.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\EventBookingSystem.Application.csproj",
+              "RelativeToolTip": "EventBookingSystem.Application\\EventBookingSystem.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-22T15:15:21.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.API\\Program.cs",
+              "RelativeToolTip": "EventBookingSystem.API\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwC0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:21:52.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EventBookingSystem.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EventBookingSystem.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T14:20:28.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Tests\\Repositories\\EventRepositoryTests.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.Tests\\Repositories\\EventRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Tests\\Repositories\\EventRepositoryTests.cs",
+              "RelativeToolTip": "EventBookingSystem.Tests\\Repositories\\EventRepositoryTests.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:42:00.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Domain\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.Domain\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Domain\\Entities\\Event.cs",
+              "RelativeToolTip": "EventBookingSystem.Domain\\Entities\\Event.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvy4AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:43:11.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEventCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\Handlers\\UpdateEventCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.Application\\Handlers\\UpdateEventCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\Handlers\\UpdateEventCommandHandler.cs",
+              "RelativeToolTip": "EventBookingSystem.Application\\Handlers\\UpdateEventCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:42:05.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteEventCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Tests\\Handlers\\DeleteEventCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.Tests\\Handlers\\DeleteEventCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Tests\\Handlers\\DeleteEventCommandHandlerTests.cs",
+              "RelativeToolTip": "EventBookingSystem.Tests\\Handlers\\DeleteEventCommandHandlerTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:42:57.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventBookingSystem.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Tests\\EventBookingSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "EventBookingSystem.Tests\\EventBookingSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Tests\\EventBookingSystem.Tests.csproj",
+              "RelativeToolTip": "EventBookingSystem.Tests\\EventBookingSystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T13:41:33.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteEventCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\Handlers\\DeleteEventCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.Application\\Handlers\\DeleteEventCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\Handlers\\DeleteEventCommandHandler.cs",
+              "RelativeToolTip": "EventBookingSystem.Application\\Handlers\\DeleteEventCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:42:16.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Infrastructure\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.Infrastructure\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Infrastructure\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "EventBookingSystem.Infrastructure\\Repositories\\EventRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:48:00.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Domain\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.Domain\\Interfaces\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Domain\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "EventBookingSystem.Domain\\Interfaces\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:47:29.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventCommandHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\Handlers\\EventCommandHandlers.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.Application\\Handlers\\EventCommandHandlers.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\Handlers\\EventCommandHandlers.cs",
+              "RelativeToolTip": "EventBookingSystem.Application\\Handlers\\EventCommandHandlers.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:42:29.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteEventCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\Commands\\DeleteEventCommand.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.Application\\Commands\\DeleteEventCommand.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\Commands\\DeleteEventCommand.cs",
+              "RelativeToolTip": "EventBookingSystem.Application\\Commands\\DeleteEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:41:26.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateEventCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\Commands\\UpdateEventCommand.cs",
+              "RelativeDocumentMoniker": "EventBookingSystem.Application\\Commands\\UpdateEventCommand.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EventBookingSystem\\EventBookingSystem.Application\\Commands\\UpdateEventCommand.cs",
+              "RelativeToolTip": "EventBookingSystem.Application\\Commands\\UpdateEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:41:11.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

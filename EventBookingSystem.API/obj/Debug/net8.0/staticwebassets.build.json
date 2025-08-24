@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Zu3P0oLtWfIcM8LDTkRQUHj9H4M/U2wpF496Z88TtxE=",
+  "Source": "EventBookingSystem.API",
+  "BasePath": "_content/EventBookingSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

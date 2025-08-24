@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\bin\Debug\net9.0\EventBookingSystem.Application.deps.json
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\bin\Debug\net9.0\EventBookingSystem.Application.dll
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\bin\Debug\net9.0\EventBookingSystem.Application.pdb
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\bin\Debug\net9.0\EventBookingSystem.Domain.dll
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\bin\Debug\net9.0\EventBookingSystem.Domain.pdb
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\obj\Debug\net9.0\EventBookingSystem.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\obj\Debug\net9.0\EventBookingSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\obj\Debug\net9.0\EventBookingSystem.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\obj\Debug\net9.0\EventBookingSystem.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\obj\Debug\net9.0\EventBookingSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\obj\Debug\net9.0\EventBoo.2B850DB3.Up2Date
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\obj\Debug\net9.0\EventBookingSystem.Application.dll
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\obj\Debug\net9.0\refint\EventBookingSystem.Application.dll
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\obj\Debug\net9.0\EventBookingSystem.Application.pdb
+C:\Users\user\Desktop\EventBookingSystem\EventBookingSystem.Application\obj\Debug\net9.0\ref\EventBookingSystem.Application.dll
