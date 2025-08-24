@@ -67,7 +67,7 @@ docker-compose up --build
 3. Open the application:
 
 * Frontend: [http://localhost:3000](http://localhost:3000)
-* Backend API: [http://localhost:5050](http://localhost:5050/api/event)
+* Backend API: [http://localhost:5050/api/event](http://localhost:5050/api/event)
 * Swagger Docs: [http://localhost:5050/swagger](http://localhost:5050/swagger)
 
 ## API Endpoints
